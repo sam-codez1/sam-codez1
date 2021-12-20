@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sam-codez1
-- 👀 I’m interested in ... oh boy, hard to do one line. from League of Legends to boxing, a varied spread lmao
+- 👀 I’m interested in ... oh boy, hard to do one line. everything from League of Legends to boxing lmao
 - 🌱 I’m currently learning ... Javascript, solidity (Cryptozombies), HTML and CSS
 - 💞️ I’m looking to collaborate on ... anything web3! or food delivery related. bonus points if both
 - 📫 How to reach me ... carrier pigeon preferred
